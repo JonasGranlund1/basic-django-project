@@ -1,6 +1,6 @@
 ---
 
-name: Checks
+name: Django
 
 on: [push]
 
